@@ -1,0 +1,25 @@
+
+
+
+
+
+Admin side
+
+Open any browser and go to this url http://localhost/doctor/.
+Then, use this credential to login the system.
+
+Username: 1
+Password: admin
+
+Doctor Side
+
+Open any browser and go to this url http://localhost/doctor/
+Then, use this credential to login the system.
+
+Username: 1
+Password: janobe
+
+Patient Side
+
+Open any browser and go to this url http://localhost/doctor/
+Then, use this credential to login the system.
